@@ -1,0 +1,3 @@
+Practica de metadatos:
+
+- saca todos los metadatos que puedas de los archivos que aparecen 
